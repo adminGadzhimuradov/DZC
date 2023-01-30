@@ -1,0 +1,15 @@
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\bin\Debug\net6.0\taskDZ60.exe
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\bin\Debug\net6.0\taskDZ60.deps.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\bin\Debug\net6.0\taskDZ60.runtimeconfig.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\bin\Debug\net6.0\taskDZ60.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\bin\Debug\net6.0\taskDZ60.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\obj\Debug\net6.0\taskDZ60.csproj.AssemblyReference.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\obj\Debug\net6.0\taskDZ60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\obj\Debug\net6.0\taskDZ60.AssemblyInfoInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\obj\Debug\net6.0\taskDZ60.AssemblyInfo.cs
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\obj\Debug\net6.0\taskDZ60.csproj.CoreCompileInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\obj\Debug\net6.0\taskDZ60.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\obj\Debug\net6.0\refint\taskDZ60.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\obj\Debug\net6.0\taskDZ60.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\obj\Debug\net6.0\taskDZ60.genruntimeconfig.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#7\taskDZ60\obj\Debug\net6.0\ref\taskDZ60.dll
